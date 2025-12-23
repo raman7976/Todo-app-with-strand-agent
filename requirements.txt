@@ -1,0 +1,10 @@
+strands-agents
+strands-agents-tools
+mem0ai
+opensearch-py
+ddgs
+python-dotenv
+strands-agents[ollama]
+PyPDF2>=3.0.0
+flask
+flask-cors
