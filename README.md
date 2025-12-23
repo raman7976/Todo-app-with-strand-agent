@@ -24,7 +24,7 @@ Before running the project, make sure you have these installed:
 
 ### 1. Prepare the AI
 First, install Ollama and pull the model we are using. Open your terminal/command prompt and run:
-```bash
+bash
 ollama pull llama3.2
 
 
@@ -40,3 +40,6 @@ pip install flask flask-cors strands duckduckgo-search requests
 Start the Python server. This listens for requests from the webpage:
 
 python agent.py
+
+
+<img width="1440" height="900" alt="Screenshot 2025-12-23 at 4 40 09 PM" src="https://github.com/user-attachments/assets/24478950-9033-4a2c-ac58-0c6a872bee9d" />
